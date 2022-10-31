@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://4dco.in/sitemap.xml
