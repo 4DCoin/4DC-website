@@ -3,13 +3,17 @@ id: "hero"
 
 content:
   title: "**4D** Platfrom"
-  text: "Investment in Diamonds Made Smart and Accessible."
+  text: "Investment in Diamonds Made Smart and Accessible.
+  
+  1. This is not as simplet as you think
+  
+  # Here's a header"
 
   buttonPrimary:
     label: "Request White Paper"
     url: "#"
 
   buttonSecondary:
-    label: "Invest in **4DP**"
+    label: "Invest in 4DP"
     url: ""
 
