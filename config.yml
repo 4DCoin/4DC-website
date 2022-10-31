@@ -1,0 +1,162 @@
+---
+baseURL: https://4dco.in/
+languageCode: en-us
+title: 4D Platform
+theme: piko
+paginate: "9"
+copyright: 4D Foundation
+googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+
+params:
+  analytics:
+    google:
+      SiteVerificationTag: # Google Site Verification
+    yandex:
+      SiteVerificationTag: # Yandex Site Verification
+    bing:
+      SiteVerificationTag: # Bing Site Verification
+  env: production
+  author: 4D Foundation
+  description: "4D Platform: Investment in Diamonds Made Smart and Accessible"
+  math: false
+  images:
+  - "/uploads/og.webp"
+  label:
+    title: 4D Platform
+    text: The home of 4D Platform (4DP), 4D Coin (4DC), and 4D Non-fungible Token
+    icon: /uploads/zap.svg
+    iconHeight: "35"
+    iconWIdth: "35"
+  comments: true
+  mainSections:
+  - blog
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  ShowRelated: true
+  CookieNotice: We use cookies to improve your experience on our site.
+  CookieLink: /legal/privacy/#cookies-and-web-beacons
+  CookieButton: Cookies Policy
+  disableAnchoredHeadings: false
+  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  assets:
+    disableFingerprinting: false
+    favicon: /uploads/zap.svg
+    favicon16x16: /uploads/zap.svg
+    favicon32x32: /uploads/zap.svg
+    apple_touch_icon: /uploads/zap.svg
+    safari_pinned_tab: /uploads/zap.svg
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  homepage:
+    # Hero Section
+    disableHeroSection: false
+    heroUpperTitle: 
+    heroTitle: 4D Platform
+    heroDescription: Investment in Diamonds Made Smart and Accessible. Brininging 
+    heroCTAPrimaryText: Read the White Paper
+    heroCTAPrimaryUrl: "/blog/"
+    heroCTASecondaryText: Invest in 4DP
+    heroCTASecondaryUrl: "/contact/"
+    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    # Portfolio Section
+    disablePortfolioSection: false
+    portfolioTitle: 4D Ecosystem
+    portfolioDescription: What is it made from 
+    portfolio:
+    - imageUrl: /uploads/portfolio-1.webp
+      alt: # image alt for better SEO
+      description: 4D Platform
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-2.webp
+      alt: # image alt for better SEO
+      description: 4D Coin
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-3.webp
+      alt: # image alt for better SEO
+      description: 4D NFT
+      websiteUrl: #    # Blog Section
+    disableBlogSection: false
+    blogTitle: Latest Posts
+    blogDescription: 4D Platform news
+    seeMoreText: More Posts
+    # About Section    
+    disableAboutSection: false
+    aboutTitle: About project
+    aboutDescription: What our goals
+    aboutImgUrl: "/uploads/self.webp"
+    aboutContent: "4D Platform (4DP), 4D Coin (4DC), and 4D Non-fungible Token (4D-NFT) represent a modern approach to the traditional diamond market, which resolves existing limitations and provides access to an attractive investment niche and consume grade diamonds to a broad consumer range."
+
+  # Search Options (https://fusejs.io/)
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: "0"
+    distance: "1000"
+    threshold: "0.4"
+    minMatchCharLength: "0"
+    keys:
+    - title
+    - permalink
+    - summary
+    - content
+  plugins:
+    css:
+    - link: plugins/css/pico.min.css
+    js:
+    - link: plugins/js/feather.min.js
+menus:
+  main: # Main Menu
+  - name: Blog
+    title: Blog
+    pre: pen-tool
+    url: "/blog"
+    weight: "20"
+  - name: Search
+    title: Search
+    pre: search
+    url: "/search"
+    weight: "30"
+  - name: Contact
+    title: Contact
+    pre: mail
+    url: "/contact"
+    weight: "40"
+  - name: Github
+    title: 
+    pre: github
+    url: https://github.com/4DCoin
+    weight: "50"
+  search: # Search page's quick links
+  - name: Categories
+    title: Categories
+    url: "/categories"
+    weight: "10"
+  - name: Archives
+    title: Archives
+    url: "/archives"
+    weight: "20"
+  - name: Tags
+    title: Tags
+    url: "/tags"
+    weight: "30"

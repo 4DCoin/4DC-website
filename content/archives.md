@@ -1,5 +1,8 @@
 ---
-date: 2019-05-28
-type: section
-layout: "archives"
+title: "Archives" # in any language you want
+layout: "archives" # is necessary
+# url: "/archive"
+description: "This is the archive page"
+summary: "archives"
 ---
+
