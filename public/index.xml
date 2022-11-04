@@ -1,75 +1,300 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4D Platform, Investment in Diamonds Made Smart and Accessible</title>
-    <link>https://4dco.in/</link>
-    <description>Recent content on 4D Platform, Investment in Diamonds Made Smart and Accessible</description>
+    <title>Andromeda - Software and SAAS Landing Hugo Theme</title>
+    <link>https://demo.gethugothemes.com/andromeda/site/</link>
+    <description>Recent content on Andromeda - Software and SAAS Landing Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://4dco.in/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/andromeda/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://4dco.in/archives/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <title>changelog</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/changelog/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/archives/</guid>
-      <description></description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/changelog/</guid>
+      <description>v1.0.4 (January 19,2020) changed
+Enhance or improve User experience, our Site, or our Service.</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://4dco.in/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Terms &amp; Conditions</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/terms-and-conditions/</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/terms-and-conditions/</guid>
+      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number.</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://4dco.in/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Laravel Developer</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-1/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-1/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
-      <title>Placeholder Text</title>
-      <link>https://4dco.in/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Recruiterbox</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-1/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-1/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
     </item>
     
     <item>
-      <title>Math Typesetting</title>
-      <link>https://4dco.in/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <title>The Real Product From the Buyers improvements in Overflow basis.</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-1/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-1/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
     </item>
     
     <item>
-      <title>Emoji Support</title>
-      <link>https://4dco.in/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Head Design</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-2/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-2/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Lapa</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-2/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-2/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Why you should launch your product in phases not after done</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-2/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-2/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Engineer</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-3/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-3/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Taskrabbit</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-3/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-3/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Three reasons you DON’T need an app on the App Store</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-3/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-3/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Design Lead</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-4/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Five eCommerce lessons to learn from Bloom &amp; Wild</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-4/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Recruiterbox</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-4/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-4/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Designer</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-5/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-5/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Lapa</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-5/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-5/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Using Wakanda for project management when working remote</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-5/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-5/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>How to write a brief for a new website or app.</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-6/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-6/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Lead Product Designer</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-6/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-6/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>Taskrabbit</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/case-studies/case-6/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/case-studies/case-6/</guid>
+      <description>Client We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>How and why we decided to launch an EMI scheme for our employees.</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-7/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-7/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Junior Developer</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/career/job-post-7/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/career/job-post-7/</guid>
+      <description>What Is the role? We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts.</description>
+    </item>
+    
+    <item>
+      <title>What to consider before starting a business – Inside The Studio</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/blog/post-8/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/blog/post-8/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Abdullah Al Shifat</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/author/abdullah-al-shifat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/author/abdullah-al-shifat/</guid>
+      <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore necessitatibus.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://4dco.in/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <link>https://demo.gethugothemes.com/andromeda/site/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://4dco.in/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+      <guid>https://demo.gethugothemes.com/andromeda/site/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choose Pricing</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derick Barker</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/author/derick-barker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/author/derick-barker/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/elements/</guid>
+      <description>H1 Heading H2 Heading H3 Heading H4 Heading H5 Heading H6 Heading Paragraph Did you come here for something in particular or just general Riker-bashing?</description>
+    </item>
+    
+    <item>
+      <title>How It Works</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/how-it-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signin</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/signin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/signin/</guid>
+      <description>Join Over 30000 Companys Validing Proto Decision With Andromeda</description>
+    </item>
+    
+    <item>
+      <title>Signup</title>
+      <link>https://demo.gethugothemes.com/andromeda/site/signup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/andromeda/site/signup/</guid>
+      <description>Join Over 30000 Companys Validing Proto Decision With Andromeda</description>
     </item>
     
   </channel>
