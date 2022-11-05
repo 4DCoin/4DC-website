@@ -28,22 +28,27 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Special Features"
-  title: "Start your invesmtment <br> with 4D Platform"
-  description: ""
+  title: "Start your journey <br> with 4D Platform"
+  description: "Here you can find more information about how things work at 4DP"
   features_blocks:
   - icon: "las la-lock"
     title: "Learn about the platform"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-hands-holding-diamond"
+    content: "A brief overview <br/>of the platform"
+  - icon: "las la-gem"
     title: "Investment opportunities"
     content: "Like the idea? Learn about early investment options."
-  
+  - icon: "lab la-ethereum"
+    title: "Learn about blockchain"
+    content: "How diamond market can be blckchained?"
+  - icon: "las la-coins"
+    title: "Web 3.0"
+    content: "The new opportunities <br>brought by Web 3.0"
 
 # intro_video
 intro_video:   
   enable: true
   subtitle: "Short Intro Video"
-  title: "Built exclusively for you"
+  title: "The 4D Platforms brings Web 3.0 "
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
   video_thumbnail: "images/video-popup.jpg"
