@@ -6,4 +6,4 @@ draft: false
 image: "images/vectors/signup.png"
 ---
 
-Join Over 30000 Companys Validing <br> Proto Decision With Andromeda
+Join Over 30000 Companys Validing <br> Proto Decision With 4D Platform

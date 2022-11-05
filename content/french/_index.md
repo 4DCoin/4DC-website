@@ -1,7 +1,7 @@
 ---
 # banner
 banner:
-  title: "Andromeda est le moyen le plus intuitif de prototyper des conceptions"
+  title: "4D Platform est le moyen le plus intuitif de prototyper des conceptions"
   button: "Télécharger le thème"
   button_link: "#!"
   image: "images/banner-app.png"

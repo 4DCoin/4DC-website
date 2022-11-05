@@ -1,15 +1,15 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Download The Theme"
+  title: "4D Platfrom, Investment in Diamonds Made Smart and Accessible"
+  button: "Download the White Paper"
   button_link: "#!"
   image: "images/banner-app.png"
 
 
 # brands
 brands_carousel:
-  enable: true
+  enable: false
   brand_images:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -28,28 +28,16 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Start your invesmtment <br> with 4D Platform"
+  description: ""
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Learn about the platform"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; upto date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Shareing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-
+  - icon: "las la-hands-holding-diamond"
+    title: "Investment opportunities"
+    content: "Like the idea? Learn about early investment options."
+  
 
 # intro_video
 intro_video:   

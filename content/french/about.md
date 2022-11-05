@@ -7,7 +7,7 @@ draft: false
 who_we_are:
   enable: true
   subtitle: "Qui nous sommes"
-  title: "Bonjour, nous sommes Andromeda ici pour votre aide"
+  title: "Bonjour, nous sommes 4D Platform ici pour votre aide"
   description: "Votre compagnon de santé et de remise en forme en ligne qui offre une assistance gratuite sur son groupe Facebook et propose des forfaits d'entraînement personnels guidés payants de qualité par et via le site Web. Nous sommes le tout premier manifeste en ligne au Bangladesh à créer une place que vous choisirez lorsque vous penserez à vous mettre en forme."
 
   image: "images/about/01.jpg"

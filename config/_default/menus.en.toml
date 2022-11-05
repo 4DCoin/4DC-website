@@ -12,7 +12,7 @@ url = "about/"
 weight = 4
 
 [[main]]
-name = "How It Works"
+name = "White Paper"
 url = "how-it-works/"
 weight = 5
 
@@ -105,7 +105,7 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "How It Works"
+name = "White Paper"
 url = "how-it-works/"
 weight = 2
 

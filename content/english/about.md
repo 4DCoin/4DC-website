@@ -7,7 +7,7 @@ draft: false
 who_we_are:
   enable: true
   subtitle: "Who We Are"
-  title: "Hello, We're Andromeda Here for your Help"
+  title: "Hello, We're 4D Platform to give you a uniqie investment opportunity"
   description: "Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit"
 
   image: "images/about/01.jpg"
@@ -35,7 +35,7 @@ our_mission:
   enable: true
   subtitle: "OUR MISSION"
   title: "Main Vision And Mission Of Our Company"
-  description: "We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece ."
+  description: "That is what we want to achieve."
 
   image: "images/about/02.jpg"
 
@@ -52,7 +52,7 @@ about_video:
 # brands
 brands_carousel:
   enable: true
-  subtitle: "Our Clients"
+  subtitle: "Our Partners and advisors"
   title: "Trusted by Thousands Companies"
   section: "/" # brand images comming form _index.md
 
@@ -62,18 +62,15 @@ our_team:
   enable: true
   subtitle: "Our members"
   title: "The People Behind"
-  description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
+  description: "We were serial enterpreneurs <br> who saw a great opportunity in combining very traditional diamond market with modern blockchain."
   team:
-  - name: "Valentin Staykov"
+  - name: "Gleb Katsov"
     image: "images/about/team/01.jpg"
     designation: "Operations"
-  - name: "Bukiakta Bansalo"
+  - name: "Alex Evdokimenko"
     image: "images/about/team/02.jpg"
-    designation: "Product"
-  - name: "Ortrin Okaster"
-    image: "images/about/team/03.jpg"
-    designation: "Engineering"
-
+    designation: "Platform"
+  
 
 # our office
 our_office:
@@ -82,7 +79,7 @@ our_office:
   title: "Made with Love Of around the world With Many Offices"
   description: "We were freelance designers and developers, constantly finding <br> ourselves deep in vague feedback. This made every client and team"
   office_locations:
-  - city: "NewYork, USA"
+  - city: "Westerville, USA"
     country_flag: "images/about/flags/us.png"
     address_line_one: "219 Bald Hill Drive"
     address_line_two: "Oakland Gardens, NY 11364"
