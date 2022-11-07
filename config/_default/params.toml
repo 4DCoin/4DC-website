@@ -14,13 +14,13 @@ logo_text = "4D Platform"
 image_gallery = true
 
 # footer information
-footer_info = "The content of this site, 4D Platform, 4D coin, 4D-NFT are properties of the 4D Foundation."
+footer_info = "The content of this site, 4D Platform&#8482;, 4D Coin&#8482;, 4D-NFT&#8482; are properties of the 4D Foundation."
 
 # contact form action
 contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
 
 # career form action
-career_form_action = "#" # career form works with https://formspree.io
+career_form_action = "https://formspree.io/f/xgernlzd" # career form works with https://formspree.io
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 
@@ -46,7 +46,7 @@ preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "Sign Up Now"
 link = "signup/"
 

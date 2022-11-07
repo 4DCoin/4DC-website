@@ -29,7 +29,7 @@ features:
   enable: true
   subtitle: "Special Features"
   title: "Start your journey <br> with 4D Platform"
-  description: "Here you can find more information about how things work at 4DP"
+  description: "Here you can find more information about how things work at 4DP&#8482;"
   features_blocks:
   - icon: "las la-lock"
     title: "Learn about the platform"
@@ -56,7 +56,7 @@ intro_video:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   section: "how-it-works" # content comming from how-it-works page
 
 

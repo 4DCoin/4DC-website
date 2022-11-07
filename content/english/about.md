@@ -60,7 +60,7 @@ brands_carousel:
 # our team
 our_team:
   enable: true
-  subtitle: "Our members"
+  subtitle: "The founders"
   title: "The People Behind"
   description: "We were serial enterpreneurs <br> who saw a great opportunity in combining very traditional diamond market with modern blockchain."
   team:
