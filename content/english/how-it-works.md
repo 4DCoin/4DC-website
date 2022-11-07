@@ -14,7 +14,7 @@ how_it_works_video:
 
 # how_it_works
 how_it_works:   
-  enable: true
+  enable: false
   block:
   - subtitle: "Primary Speciality"
     title: "You Will Not miss Your All misunderstandings"
