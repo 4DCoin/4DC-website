@@ -3,7 +3,7 @@
 banner:
   title: "4D Platfrom, Investment in Diamonds Made Smart and Accessible"
   button: "Download the White Paper"
-  button_link: "#!"
+  button_link: "download-wp"
   image: "images/banner-app.png"
 
 

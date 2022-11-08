@@ -17,10 +17,13 @@ image_gallery = true
 footer_info = "The content of this site, 4D Platform&#8482;, 4D Coin&#8482;, 4D-NFT&#8482; are properties of the 4D Foundation."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/moqbpojq" # contact form works with https://formspree.io
+
+# request wp form action
+whitepaper_form_action = "https://formspree.io/f/xzbwyzrj"
 
 # career form action
-career_form_action = "https://formspree.io/f/xgernlzd" # career form works with https://formspree.io
+career_form_action = "https://formspree.io/f/xeqdvogp" # career form works with https://formspree.io
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= "" 

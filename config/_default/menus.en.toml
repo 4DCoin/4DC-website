@@ -13,7 +13,7 @@ weight = 4
 
 [[main]]
 name = "White Paper"
-url = "how-it-works/"
+url = "download-wp/"
 weight = 5
 
 [[main]]
